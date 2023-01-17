@@ -9,3 +9,6 @@ if __name__ == '__main__':
     ... w potrójnym cudzysłowie
     ... lub potrójnych apostrofach""")
     print("------------------------------------------------------------------------")
+    print("Blok \"Python Podstawy\" jest OK!")
+    print("------------------------------------------------------------------------")
+
